@@ -16,6 +16,3 @@
     <h3>Certifications</h3>
     
 
-        <hr>
-    <h3>Skillsets</h3>
-    <p>Programs: HTML, CSS, Java </p>
