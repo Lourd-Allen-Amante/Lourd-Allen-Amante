@@ -8,7 +8,7 @@
     <h3>Education</h3>
     <ul>
       <li>
-        BS Information Technology
+        Bachelor of Science in Information Technology
         <ul>
           <li>New Era University</li>
           <li>2024-Present</li>
@@ -20,9 +20,8 @@
     <h3>Certifications</h3>
     <ul>
       <li>
-        <a
-          href="https://courses.cognitiveclass.ai/certificates/dc187c0dc3174c4b88089dfa83479fa2"
-          >SQL and Relational Databases 101
+        <a href="https://courses.cognitiveclass.ai/certificates/dc187c0dc3174c4b88089dfa83479fa2">
+          SQL and Relational Databases 101
         </a>
       </li>
     </ul>
