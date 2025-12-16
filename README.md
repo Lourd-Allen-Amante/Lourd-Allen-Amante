@@ -30,7 +30,7 @@
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8643C81CA0A4A27C00470B7475D29611A2E667CB024BAF3270602DF460069B4B">
           Become an Oracle Data Platform Foundations Associate (2025)
         </a>
       </li>
