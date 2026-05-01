@@ -39,6 +39,11 @@
           Become An OCI AI Foundations Associate (2025)
         </a>
       </li>
+      <li>
+        <a href="https://courses.cognitiveclass.ai/certificates/d4c821eaa5254722877efc8f279ffd8e">
+          NoSQL and DBaaS 101
+        </a>
+      </li>
     </ul>
     <p></p>
     <hr />
