@@ -54,7 +54,7 @@
     <p></p>
     <hr />
     
-## Skill Sets
+## Tech Stack
 | Domain | Stack & Technologies |
 | :--- | :--- |
 | **Programming** | <img alt="Static Badge" src="https://img.shields.io/badge/Java-red?style=flat&logo=openjdk&labelColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/Pyhton-lightblue?style=flat&logo=Python&labelColor=black"> |
