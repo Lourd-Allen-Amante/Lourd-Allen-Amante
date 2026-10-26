@@ -1,28 +1,8 @@
 <div align = "center">
   <h1> Hi, Im Lourd Allen G. Amante </h1>
   <h3> | BS Information Technology | </h3> 
-  <p> New Era University </p>
-  
+
 </div>
-
-## About Me:
-
-  <div align = "center" >
-    <br>
-    I'm a tech enthusiast with a flair for codingand database management. I thrive on tackling complex problems and crafting elegant solutions.
-  </div>
-    <h3>Education</h3>
-    <ul>
-      <li>
-        Bachelor of Science in Information Technology
-        <ul>
-          <li>New Era University</li>
-          <li>2024-Present</li>
-        </ul>
-      </li>
-    </ul>
-    <p></p>
-    <hr />
     <h3>Certifications</h3>
     <ul>
       <li>
