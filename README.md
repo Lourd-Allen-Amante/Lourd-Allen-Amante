@@ -1,6 +1,6 @@
 <div align = "center">
   <h1> Hi, Im Lourd Allen G. Amante </h1>
-  <h3> | BS Information Technology | 2nd year BSIT Student | </h3> 
+  <h3> | BS Information Technology | </h3> 
   <p> New Era University </p>
   
 </div>
